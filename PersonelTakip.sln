@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonelTakip", "PersonelTakip\PersonelTakip.csproj", "{321C219B-B319-40B3-A526-DB70D58651CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{EACC35D6-5E84-4AC9-9629-701F9ECB4392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{135F2A5E-3352-4E9D-AB40-AE34B9EECCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{321C219B-B319-40B3-A526-DB70D58651CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321C219B-B319-40B3-A526-DB70D58651CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321C219B-B319-40B3-A526-DB70D58651CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321C219B-B319-40B3-A526-DB70D58651CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACC35D6-5E84-4AC9-9629-701F9ECB4392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACC35D6-5E84-4AC9-9629-701F9ECB4392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACC35D6-5E84-4AC9-9629-701F9ECB4392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACC35D6-5E84-4AC9-9629-701F9ECB4392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135F2A5E-3352-4E9D-AB40-AE34B9EECCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135F2A5E-3352-4E9D-AB40-AE34B9EECCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135F2A5E-3352-4E9D-AB40-AE34B9EECCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135F2A5E-3352-4E9D-AB40-AE34B9EECCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0D309E-9E12-4A54-8014-F9F95EA7011E}
+	EndGlobalSection
+EndGlobal
